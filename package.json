@@ -1,0 +1,24 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "vanillajs calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abalioni/calculator.git"
+  },
+  "keywords": [
+    "calculator",
+    "vanillajs",
+    "calculator"
+  ],
+  "author": "Alexia Balionis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abalioni/calculator/issues"
+  },
+  "homepage": "https://github.com/abalioni/calculator#readme"
+}
