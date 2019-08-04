@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/abalioni/calculator/issues"
   },
-  "homepage": "https://github.com/abalioni/calculator#readme"
+  "homepage": "https://github.com/abalioni/calculator#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "swagger-jsdoc": "^3.3.0"
+  }
 }
